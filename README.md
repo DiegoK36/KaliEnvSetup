@@ -18,7 +18,7 @@ Para usar KaliEnvSetup, necesitas:
 
 ## 🚀 Instalación
 
-Para instalar y ejecutar ForenseEnvSetup, sigue estos pasos:
+Para instalar y ejecutar KaliEnvSetup, sigue estos pasos:
 
 1. Clona el repositorio en tu sistema local:
 
@@ -45,10 +45,10 @@ Para instalar y ejecutar ForenseEnvSetup, sigue estos pasos:
 
 Una vez iniciado el script, se mostrará un menú interactivo con las siguientes opciones:
 
-- Instalar herramientas de forense: Selecciona esta opción para instalar automáticamente las herramientas de forense digital definidas en el script 📦.
-- Configurar herramientas: Esta opción permite configurar las herramientas previamente instaladas ⚙️.
-- Actualizar herramientas: Selecciona esta opción para actualizar todas las herramientas y dependencias a sus últimas versiones 🔄.
-- Salir: Cierra el script 🔚.
+- **Instalar herramientas de forense:** Selecciona esta opción para instalar automáticamente las herramientas de forense digital definidas en el script 📦.
+- **Configurar herramientas:** Esta opción permite configurar las herramientas previamente instaladas ⚙️.
+- **Actualizar herramientas:** Selecciona esta opción para actualizar todas las herramientas y dependencias a sus últimas versiones 🔄.
+- **Salir:** Cierra el script 🔚.
 
 Navega por el menú utilizando los números de las opciones y sigue las instrucciones en pantalla.
 

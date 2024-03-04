@@ -58,11 +58,11 @@ Lista de herramientas de forense digital que el script instalará y configurará
 
 ## 🤝 Contribuir
 
-Si deseas contribuir al proyecto, por favor, lee CONTRIBUTING.md para obtener más información sobre cómo hacerlo 📄.
+Si deseas contribuir al proyecto, por favor, lee ```CONTRIBUTING.md``` para obtener más información sobre cómo hacerlo 📄.
 
 ## ©️ Licencia
 
-Este proyecto está licenciado bajo la Licencia MIT - ver el archivo LICENSE.md para más detalles.
+Este proyecto está licenciado bajo la ```Licencia MIT``` - ver el archivo ```LICENSE.md``` para más detalles.
 
 ## 📬 Contacto
 

@@ -1,6 +1,6 @@
-# 🕵️ ForenseEnvSetup
+# 🕵️ KaliEnvSetup
 
-KaliEnvSetup es un script de Bash diseñado para automatizar la configuración de un entorno completo de forense digital en sistemas Linux 🐧. Este script facilita la instalación de herramientas y dependencias necesarias para la forense digital, ofreciendo un menú interactivo 🖥️ para gestionar la instalación, configuración y actualización de estas herramientas.
+KaliEnvSetup es un script de Bash diseñado para automatizar la configuración de un entorno completo de Forense Digital y Hacking Ético en sistemas Linux 🐧. Este script facilita la instalación de herramientas y dependencias necesarias para la forense digital, ofreciendo un menú interactivo 🖥️ para gestionar la instalación, configuración y actualización de estas herramientas.
 
 ## 🌟 Características
 

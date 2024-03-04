@@ -28,12 +28,12 @@ Para instalar y ejecutar KaliEnvSetup, sigue estos pasos:
 2. Cambia al directorio del proyecto:
 
     ```sh
-    cd ForenseEnvSetup
+    cd KaliEnvSetup
     ```
 3. Dale permisos de ejecución al script:
 
     ```sh
-    chmod +x setup_forense.sh
+    chmod +x setup_kali.sh
     ```
 4. Ejecuta el script como root o utilizando sudo:
 

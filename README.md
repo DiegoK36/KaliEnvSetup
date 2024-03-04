@@ -11,7 +11,7 @@ KaliEnvSetup es un script de Bash diseñado para automatizar la configuración d
 
 ## 📋 Requisitos previos
 
-Para usar ForenseEnvSetup, necesitas:
+Para usar KaliEnvSetup, necesitas:
 
 - Un sistema operativo Linux basado en Debian (Ubuntu, Debian) 🐧.
 - Permisos de root o capacidad para ejecutar comandos sudo 🔑.

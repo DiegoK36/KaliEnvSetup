@@ -66,4 +66,4 @@ Este proyecto está licenciado bajo la Licencia MIT - ver el archivo LICENSE.md 
 
 ## 📬 Contacto
 
-Si tienes preguntas o comentarios sobre ForenseEnvSetup, no dudes en contactarme a través de [bmo036@protonmail.com] o abrir un issue en el repositorio de GitHub.
+Si tienes preguntas o comentarios sobre KaliEnvSetup, no dudes en contactarme a través de [bmo036@protonmail.com] o abrir un issue en el repositorio de GitHub.
